@@ -2,7 +2,7 @@
 - 👀 I’m interested at software development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on..whatever
-- 📫 How to reach me..dimitrisgavriilidis1995@hotmail.com
+- 📫 How to reach me.. dimitrisgavriilidis1995@hotmail.com
   
 
 <!---
